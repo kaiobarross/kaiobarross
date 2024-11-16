@@ -1,8 +1,9 @@
-<h2 align="left">Hello Word! 👋! My name is Kaio Barros.</h2>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=271198&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=271198&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kaio+Barros;I'm+28+years+old;I+am+from+Brasília,+DF;I+study+analysis+and+systems+development+at+IFB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/kaiobarross_?igsh=MW9jaXpnOHUwMnE0ZQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -19,13 +20,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaiobarross&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiobarross&show_icons=true&count_private=true&hide_border=true&title_color=271198&icon_color=271198&text_color=c9d1d9&bg_color=0d1117" alt="Kaio Barros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobarross&layout=compact&hide_border=true&title_color=271198&text_color=271198&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiobarross&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiobarross&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -40,15 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kaiobarross/Kaiobarross/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=6c09b952m3yt7xo2kse9gmq2okwlcw6stfeuk7ekb8e734g5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
-
-###
